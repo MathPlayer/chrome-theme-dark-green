@@ -4,14 +4,17 @@
 	"name": "dark	green	theme",
 	"theme": {
 		"colors" : {
-			"frame" : [0, 0, 0],
-			"frame_inactive" : [0, 0, 0],
+			"frame" : [49, 64, 49],
+			"frame_inactive" : [114, 131, 114],
 			"frame_incognito" : [0, 0, 0],
 			"frame_incognito_inactive" : [0, 0, 0],
-			"toolbar" : [0, 0, 0],
-			"tab_text" : [0,0,0],
-			"background_tab_text" : [0,0,0],
-			"bookmark_text" : [0,0,0],
+			"toolbar" : [35, 46, 35],
+			"tab_text" : [130, 184, 22],
+
+			"background_tab_text" : [108, 162, 0],
+			"tab_background_text" : [108, 162, 0],
+
+			"bookmark_text" : [140, 194, 32],
 			"ntp_background" : [0, 0, 0],
 			"ntp_text" : [0,0,0],
 			"ntp_link" : [0,0,0],
